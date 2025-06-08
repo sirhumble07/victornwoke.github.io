@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:03:21	928/928	---MCZ	404	error ('Not%20Found')	text/html	date:Sun,%2008%20Jun%202025%2000:03:21%20GMT	https://kunlesanni.com/robots.txt		(from )
+01:03:21	1116/1116	---MCZ	200	added ('OK')	text/html	date:Tue,%2003%20Jun%202025%2018:52:56%20GMT	https://kunlesanni.com/	C:/Users/humble/Music/TEST/humble/kunlesanni.com/index.html	(from )
+01:03:22	343/343	---MCZ	200	added ('OK')	image/svg+xml	etag:W/%2223547883%22	https://kunlesanni.com/favicon.svg	C:/Users/humble/Music/TEST/humble/kunlesanni.com/favicon.svg	(from https://kunlesanni.com/)
+01:03:23	1021815/1021815	---MCZ	200	added ('OK')	text/javascript	etag:W/%2223547883%22	https://kunlesanni.com/assets/index--Z1gt8yF.js	C:/Users/humble/Music/TEST/humble/kunlesanni.com/assets/index--Z1gt8yF.js	(from https://kunlesanni.com/)
+01:03:23	37035/37035	---MCZ	200	added ('OK')	text/css	etag:W/%2223547883%22	https://kunlesanni.com/assets/index-D18LbNVd.css	C:/Users/humble/Music/TEST/humble/kunlesanni.com/assets/index-D18LbNVd.css	(from https://kunlesanni.com/)
